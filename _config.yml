@@ -8,7 +8,7 @@ theme: minima
 
 # URL do site (ajuste para seu usuário e repositório)
 url: "https://nelsonmuquissi.github.io"
-baseurl: "/meu-site"
+baseurl: "/Meu_Site"
 
 # Configuração de Markdown
 markdown: kramdown
