@@ -1,0 +1,29 @@
+title: "Meu Blog Pessoal"
+description: "Compartilhando ideias, projetos e aprendizados"
+author: "Nelson Muquissi"
+email: "emelsonmuquissi@gmail.com"
+
+# Tema padrão do GitHub Pages
+theme: minima
+
+# URL do site (ajuste para seu usuário e repositório)
+url: "https://nelsonmuquissi.github.io"
+baseurl: "/meu-blog"
+
+# Configuração de Markdown
+markdown: kramdown
+
+# Plugins úteis
+plugins:
+  - jekyll-feed   # gera feed RSS automaticamente
+  - jekyll-seo-tag # melhora SEO com meta tags
+
+# Links sociais (aparecem no rodapé do tema minima)
+social_links:
+  github: https://github.com/nelsonmuquissi
+  twitter: https://twitter.com/nelson_muquissi
+  linkedin: https://linkedin.com/in/nelsonmuquissi
+
+# Configuração de posts
+paginate: 5   # número de posts por página
+paginate_path: "/page:num"
